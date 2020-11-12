@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c43f894e-b199-4b49-a76d-3260e3b3e380" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kA8VPkrxbbyMBFtTIu6B8VdqNM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.parcentageMarks">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaProgramming.Main" />
+      <module name="JavaProgramming" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaProgramming.literals" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parcentageMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaProgramming.parcentageMarks" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="takibgInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaProgramming.takibgInput" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="takingInout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="takingInout" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.parcentageMarks" />
+        <item itemvalue="Application.takibgInput" />
+        <item itemvalue="Application.takingInout" />
+        <item itemvalue="Application.literals" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43f894e-b199-4b49-a76d-3260e3b3e380" name="Default Changelist" comment="" />
+      <created>1605132061119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605132061119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="415" width="498" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605184514593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="711" y="415" width="498" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1605184514593" />
+    <state width="1920" height="303" key="GridCell.Tab.0.bottom" timestamp="1605191582929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605191582929" />
+    <state width="1920" height="303" key="GridCell.Tab.0.center" timestamp="1605191582928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="303" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605191582928" />
+    <state width="1920" height="303" key="GridCell.Tab.0.left" timestamp="1605191582927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="303" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605191582927" />
+    <state width="1920" height="303" key="GridCell.Tab.0.right" timestamp="1605191582929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="303" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605191582929" />
+    <state x="441" y="175" key="SettingsEditor" timestamp="1605187558851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605187558851" />
+    <state x="641" y="103" width="638" height="873" key="find.popup" timestamp="1605132278659">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="641" y="103" width="638" height="873" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605132278659" />
+  </component>
+</project>
