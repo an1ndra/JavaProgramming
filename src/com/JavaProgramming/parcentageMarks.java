@@ -20,6 +20,11 @@ public class parcentageMarks {
 //        System.out.print("What is your name: ");
 //        Scanner sc = new Scanner(System.in);
 //        String name = sc.next();
-//        System.out.println("Hello " +name+ " have a goood day!");
+//        System.out.println("Hello " +name+ " have a good day!");
+//        System.out.print("Enter your kilomiles: ");
+//        Scanner sc = new Scanner(System.in);
+//        float kilomiles = sc.nextFloat();
+//        float miles = kilomiles*1000;
+//        System.out.println(miles);
     }
 }
